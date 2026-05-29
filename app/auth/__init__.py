@@ -1,0 +1,1 @@
+"""Authorization intelligence modules — JWT decoding, capability mapping, tenant extraction."""
